@@ -5,3 +5,11 @@ torch-scatter
 torch-sparse
 torchvision
 klepto
+
+#torch==1.3.1
+#torch-cluster==1.2.4
+#torch-geometric==1.1.2
+#torch-scatter==1.1.2
+#torch-sparse==0.4.0
+#torchvision==0.4.0
+#klepto==0.2.0

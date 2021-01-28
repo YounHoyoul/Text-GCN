@@ -133,7 +133,7 @@ parser.add_argument('--user', default=get_user())
 
 parser.add_argument('--hostname', default=get_host())
 
-FLAGS = parser.parse_args()
+FLAGS = parser.parse_args(args=[])
 
 COMET_EXPERIMENT = None
 if FLAGS.use_comet_ml:

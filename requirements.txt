@@ -11,5 +11,5 @@ torch-cluster==1.2.4
 torch-geometric==1.1.2
 torch-scatter==1.1.2
 torch-sparse==0.4.0
-torchvision==0.4.0
+torchvision==0.4.2
 klepto==0.2.0
